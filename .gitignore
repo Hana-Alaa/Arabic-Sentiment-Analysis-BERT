@@ -25,7 +25,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
-# models/
+models/
 # data/
 # images/
 
@@ -209,3 +209,4 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+"models/" 
