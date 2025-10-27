@@ -15,6 +15,8 @@
 ## 🧠 Model
 The model is fine-tuned on an Arabic sentiment dataset using **AraBERTv2** from the [Hugging Face Transformers](https://huggingface.co/docs/transformers/index) library.  
 
+---
+
 ## Installation & Usage
 1. Clone the repository:
 ```
