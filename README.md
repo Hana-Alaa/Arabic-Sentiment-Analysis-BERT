@@ -1,4 +1,4 @@
-# Arabic Sentiment Analysis 🕌
+# Arabic Sentiment Analysis 
 
 **Arabic Sentiment Analyzer** is a web application built using **Streamlit** and **AraBERT** that classifies Arabic text into **positive** or **negative** sentiment.
 
