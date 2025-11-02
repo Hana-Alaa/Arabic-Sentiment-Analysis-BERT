@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Features
+## Features
 - Predicts sentiment of Arabic text using fine-tuned AraBERT.
 - Displays prediction label, confidence score, and visualization.
 - Clean, RTL-friendly user interface built with Streamlit.
@@ -53,3 +53,5 @@ Arabic-Sentiment-Analysis-BERT/
 ├── requirements.txt
 └── README.md
 ```
+## Authors
+- [Hana Alaa](https://github.com/Hana-Alaa)
