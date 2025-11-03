@@ -54,4 +54,6 @@ Arabic-Sentiment-Analysis-BERT/
 └── README.md
 ```
 ## Authors
-- [Hana Alaa](https://github.com/Hana-Alaa)
+- [Hana Alaa]
+- [Esraa Elfar]
+(https://github.com/Hana-Alaa)
